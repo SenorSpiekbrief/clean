@@ -21,7 +21,7 @@
 				exports: ''
 			}
 		},
-		baseUrl: './app', //This is the uri you're probably looking for - YV.
+		baseUrl: './app', //This is the uri you're probably looking for -YV.
 	});
 	
 	require(['app', 'angular'], function (app, angular) {
